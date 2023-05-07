@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1675951812 source:c:\users\waral\onedrive\masaüstü\codeblocksdosya\lp naming companies\main.cpp
+	<iostream>
+	<HashTable.h>
+	<string>
+	<vector>
+

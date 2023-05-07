@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1677076782 source:c:\users\waral\onedrive\masaüstü\codeblocksdosya\path sum\main.cpp
+	<iostream>
+	<vector>
+	"Heap.h"
+
+1677077894 c:\users\waral\onedrive\masaüstü\codeblocksdosya\path sum\include\heap.h
+	<vector>
+	<point.h>
+
+1677077847 source:c:\users\waral\onedrive\masaüstü\codeblocksdosya\path sum\src\heap.cpp
+	"Heap.h"
+	<vector>
+
+1677076874 c:\users\waral\onedrive\masaüstü\codeblocksdosya\path sum\include\point.h
+
+1677076854 source:c:\users\waral\onedrive\masaüstü\codeblocksdosya\path sum\src\point.cpp
+	"point.h"
+
